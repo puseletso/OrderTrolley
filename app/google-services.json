@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "572001185264",
+    "firebase_url": "https://ordertrolley-6649c.firebaseio.com",
+    "project_id": "ordertrolley-6649c",
+    "storage_bucket": "ordertrolley-6649c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572001185264:android:b1fc7edd2dc7980e",
+        "android_client_info": {
+          "package_name": "tut.ac.za.ordertrolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572001185264-ngg289mou8110ialq9ieorcfsj8ifj34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tut.ac.za.ordertrolley",
+            "certificate_hash": "D7BAAE866056133A73D24B65DAD0B9878763626A"
+          }
+        },
+        {
+          "client_id": "572001185264-m0udk0bq2dnf1crc02aop5uha2mcudtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqjZEkcfvwP85s1Q5eB8aADAFmedptaYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572001185264-m0udk0bq2dnf1crc02aop5uha2mcudtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
